@@ -1,0 +1,39 @@
+Employee ID: EMP001
+Employee Name: Alice Johnson
+Department: HR
+Basic Salary: 45000
+Allowance: 5000
+Deduction: 2000
+Net Salary: 48000
+
+Employee ID: EMP002
+Employee Name: Bob Smith
+Department: IT
+Basic Salary: 60000
+Allowance: 7000
+Deduction: 3000
+Net Salary: 64000
+
+Employee ID: EMP003
+Employee Name: Charlie Brown
+Department: Finance
+Basic Salary: 55000
+Allowance: 6000
+Deduction: 2500
+Net Salary: 58500
+
+Employee ID: EMP004
+Employee Name: Diana Patel
+Department: Sales
+Basic Salary: 50000
+Allowance: 5500
+Deduction: 2200
+Net Salary: 53300
+
+Employee ID: EMP005
+Employee Name: Ethan Kumar
+Department: Operations
+Basic Salary: 48000
+Allowance: 4000
+Deduction: 1800
+Net Salary: 50200

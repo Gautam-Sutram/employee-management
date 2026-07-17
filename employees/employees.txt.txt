@@ -1,0 +1,33 @@
+EMPLOYEE MANAGEMENT SYSTEM - EMPLOYEE DATA
+
+Employee ID: EMP001 Name: Amit Kumar Email: amit.kumar@company.com
+Department: Engineering Designation: Software Developer Joining Date:
+2024-01-15 Employment Status: Active
+
+Employee ID: EMP002 Name: Priya Sharma Email: priya.sharma@company.com
+Department: Human Resources Designation: HR Executive Joining Date:
+2023-08-21 Employment Status: Active
+
+Employee ID: EMP003 Name: Rahul Verma Email: rahul.verma@company.com
+Department: Finance Designation: Accountant Joining Date: 2022-11-10
+Employment Status: Active
+
+Employee ID: EMP004 Name: Sneha Singh Email: sneha.singh@company.com
+Department: Engineering Designation: QA Engineer Joining Date:
+2024-06-03 Employment Status: Active
+
+Employee ID: EMP005 Name: Arjun Mehta Email: arjun.mehta@company.com
+Department: Sales Designation: Sales Executive Joining Date: 2023-03-17
+Employment Status: Inactive
+
+Employee ID: EMP006 Name: Neha Gupta Email: neha.gupta@company.com
+Department: Engineering Designation: DevOps Engineer Joining Date:
+2025-02-12 Employment Status: Active
+
+Employee ID: EMP007 Name: Vikram Patel Email: vikram.patel@company.com
+Department: Marketing Designation: Marketing Associate Joining Date:
+2024-09-09 Employment Status: Active
+
+Employee ID: EMP008 Name: Anjali Roy Email: anjali.roy@company.com
+Department: Human Resources Designation: Talent Acquisition Specialist
+Joining Date: 2025-01-20 Employment Status: Active

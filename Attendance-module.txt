@@ -1,0 +1,14 @@
+ Employee ID : 001
+- Date : 19-07-26
+- In time : 9.00 AM
+- Out time : 5:00 PM
+
+ Employee ID : 002
+- Date : 19-07-26
+- In time : 9.00 AM
+- Out time : 5:00 PM
+
+ Employee ID : 003
+- Date : 19-07-26
+- In time : 9.00 AM
+- Out time : 5:00 PM

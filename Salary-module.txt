@@ -1,0 +1,13 @@
+Salary Module
+
+Basic Salary : 50000
+Bonus : 5000
+Deductions : 2000
+
+Basic Salary : 40000
+Bonus : 5000
+Deductions : 2000
+
+Basic Salary : 30000
+Bonus : 5000
+Deductions : 2000

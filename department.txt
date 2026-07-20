@@ -1,0 +1,71 @@
+DEPARTMENT MANAGEMENT SYSTEM - DEPARTMENT DATA
+
+Department ID: DEP001
+Department Name: Engineering
+Department Head: Rohit Sharma
+Location: Building A - Floor 3
+Employee Count: 25
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP002
+Department Name: Human Resources
+Department Head: Priya Singh
+Location: Building B - Floor 2
+Employee Count: 8
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP003
+Department Name: Finance
+Department Head: Rahul Verma
+Location: Building A - Floor 1
+Employee Count: 10
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP004
+Department Name: Sales
+Department Head: Ankit Mehta
+Location: Building C - Floor 2
+Employee Count: 18
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP005
+Department Name: Marketing
+Department Head: Neha Gupta
+Location: Building C - Floor 1
+Employee Count: 12
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP006
+Department Name: Customer Support
+Department Head: Karan Patel
+Location: Building D - Floor 1
+Employee Count: 20
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP007
+Department Name: Research & Development
+Department Head: Sneha Kapoor
+Location: Building A - Floor 4
+Employee Count: 15
+Status: Active
+
+----------------------------------------
+
+Department ID: DEP008
+Department Name: Administration
+Department Head: Vivek Joshi
+Location: Main Office
+Employee Count: 6
+Status: Active

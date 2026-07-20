@@ -1,0 +1,83 @@
+EMPLOYEE ATTENDANCE RECORDS
+Month: July 2026
+
+------------------------------------------------------------
+Employee ID : EMP001
+Employee Name : Amit Kumar
+Department : Engineering
+Date : 2026-07-01
+Check-In : 09:02 AM
+Check-Out : 06:05 PM
+Status : Present
+------------------------------------------------------------
+
+Employee ID : EMP002
+Employee Name : Priya Sharma
+Department : Human Resources
+Date : 2026-07-01
+Check-In : 09:15 AM
+Check-Out : 06:12 PM
+Status : Present
+------------------------------------------------------------
+
+Employee ID : EMP003
+Employee Name : Rahul Verma
+Department : Finance
+Date : 2026-07-01
+Check-In : --
+Check-Out : --
+Status : Leave
+------------------------------------------------------------
+
+Employee ID : EMP004
+Employee Name : Sneha Singh
+Department : Engineering
+Date : 2026-07-01
+Check-In : 08:58 AM
+Check-Out : 06:01 PM
+Status : Present
+------------------------------------------------------------
+
+Employee ID : EMP005
+Employee Name : Arjun Mehta
+Department : Sales
+Date : 2026-07-01
+Check-In : 09:28 AM
+Check-Out : 06:30 PM
+Status : Late
+------------------------------------------------------------
+
+Employee ID : EMP006
+Employee Name : Neha Gupta
+Department : Engineering
+Date : 2026-07-01
+Check-In : 09:05 AM
+Check-Out : 06:08 PM
+Status : Present
+------------------------------------------------------------
+
+Employee ID : EMP007
+Employee Name : Vikram Patel
+Department : Marketing
+Date : 2026-07-01
+Check-In : --
+Check-Out : --
+Status : Absent
+------------------------------------------------------------
+
+Employee ID : EMP008
+Employee Name : Anjali Roy
+Department : Human Resources
+Date : 2026-07-01
+Check-In : 09:00 AM
+Check-Out : 06:00 PM
+Status : Present
+------------------------------------------------------------
+
+Summary
+-------
+Total Employees : 8
+Present : 5
+Late : 1
+Leave : 1
+Absent : 1

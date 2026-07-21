@@ -30,4 +30,4 @@ Department: Marketing Designation: Marketing Associate Joining Date:
 
 Employee ID: EMP008 Name: Anjali Roy Email: anjali.roy@company.com
 Department: Human Resources Designation: Talent Acquisition Specialist
-Joining Date: 2025-01-20 Employment Status: Active
+Joining Date: 2025-01-20 Employment Status: InActive

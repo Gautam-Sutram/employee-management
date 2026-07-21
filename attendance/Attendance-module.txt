@@ -45,6 +45,14 @@ Date : 2026-07-01
 Check-In : 09:28 AM
 Check-Out : 06:30 PM
 Status : Late
+
+Employee ID : EMP005
+Employee Name : Arjun Mehta
+Department : Sales
+Date : 2026-07-01
+Check-In : 09:28 AM
+Check-Out : 06:30 PM
+Status : Late
 ------------------------------------------------------------
 
 Employee ID : EMP006

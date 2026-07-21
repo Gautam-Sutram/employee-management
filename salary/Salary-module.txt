@@ -4,7 +4,7 @@ Department: HR
 Basic Salary: 45000
 Allowance: 5000
 Deduction: 2000
-Net Salary: 48000
+Net Salary: 55000
 
 Employee ID: EMP002
 Employee Name: Bob Smith
